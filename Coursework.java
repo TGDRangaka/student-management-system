@@ -1,5 +1,3 @@
-//import java.util.Arrays;
-//hello java
 import java.util.*;
 class Coursework{
 	static String[] sID=new String[0];
